@@ -35,7 +35,8 @@ npm run build
 
 
 <h2>Cheatsheet</h2>
-<p>If You Wanna Start From Scratch, take a look at (`tutorial.md`)(https://github.com/KangAbbad/webpack-quickstarter/blob/master/tutorial.md)</p>
+<p>If You Wanna Start From Scratch, take a look at <a href="https://github.com/KangAbbad/webpack-quickstarter/blob/master/tutorial.md"> `tutorial.md`</p>
+(`tutorial.md`)(https://github.com/KangAbbad/webpack-quickstarter/blob/master/tutorial.md)
 
 
 <h2>Bugs</h2>
