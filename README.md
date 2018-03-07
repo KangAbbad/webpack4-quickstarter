@@ -24,20 +24,18 @@ npm install
 npm run dev
 ```
 
-<br>
 **Compile your project when it's done**
 
 ```bash
 npm run build
 ```
+> Note: 
+> - `npm run build:prod` if you want to minify your scripts
 
-<br><br><br>
-
-
+<br><br>
 <h2>Cheatsheet</h2>
-<p>If You Wanna Start From Scratch, take a look at <a href="https://github.com/KangAbbad/webpack-quickstarter/blob/master/tutorial.md"> `tutorial.md`</p>
-(`tutorial.md`)(https://github.com/KangAbbad/webpack-quickstarter/blob/master/tutorial.md)
 
+If You Wanna Start From Scratch, Take a Look at [tutorial.md](https://github.com/KangAbbad/webpack-quickstarter/blob/master/tutorial.md)
 
 <h2>Bugs</h2>
 <ul>
