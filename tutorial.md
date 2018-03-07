@@ -177,14 +177,14 @@
         devtool: 'inline-source-map'
     }
 
-**10. Run npm scripts to see your application in action in browser and in production format. And Voillaaa!! You did it! :D**
+**10. Run npm scripts to see your application in action in browser and in production format. And Voillaaa!! You did it! Don’t forget to inspect element in the browser console to make sure everything’s working great without any error**
 
 > ## **End of This Long Guide**
 
-# Getting Ended
+<div align"center">
 
-**Don’t forget to inspect element in the browser console to make sure everything’s working great without any error**
+# If you find something that’s not right in this guide, mention it into the comment section. I really look forward to your feedback
 
-**If you find something that’s not right in this guide, mention it into the comment section. I really look forward to your feedback**
+# Thank you for beeing patience and If you like it, don't forget to click star button at the top
 
-**Thank you for beeing patience and If you like it, don't forget to click star button at the top**
+</div>
