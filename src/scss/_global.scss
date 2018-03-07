@@ -1,0 +1,36 @@
+$l-regular : 'Lato-Regular';
+$magehand : 'Magehand';
+
+// import fonts
+@font-face {
+    font-family: $l-regular;
+    src : url('../assets/fonts/Lato-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: $magehand;
+    src: url('../assets/fonts/Magehand.ttf') format("truetype"),
+        url('../assets/fonts/Magehand.woff') format("woff"),
+        url('../assets/fonts/Magehand.woff2') format("woff2");        
+}
+
+// Normal CSS
+body {
+    background-image: url('../assets/images/webpack.png');
+    background-color: #0086d3;
+    color: #eeeeee;
+    font-family: $l-regular;
+
+    img {
+        height: 250px;
+    }
+
+    h1 {
+        text-transform: capitalize;
+    }
+
+    span {
+        font-family: $magehand;
+        font-weight: 600;
+    }
+}
