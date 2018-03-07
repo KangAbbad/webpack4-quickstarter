@@ -181,10 +181,7 @@
 
 > ## **End of This Long Guide**
 
-<div align"center">
-
-# If you find something that’s not right in this guide, mention it into the comment section. I really look forward to your feedback
-
-# Thank you for beeing patience and If you like it, don't forget to click star button at the top
-
+<div align="center">
+    <h1>If you find something that’s not right in this guide, mention it into the comment section. I really look forward to your feedback</h1>
+    <h1>Thank you for beeing patience and If you like it, don't forget to click star button at the top</h1>
 </div>
