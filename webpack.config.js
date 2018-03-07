@@ -1,10 +1,10 @@
-const webpack = require('webpack');
-const path = require('path');
-const HtmlWebPackPlugin = require('html-webpack-plugin');
-const CleanWebpackPlugin = require('clean-webpack-plugin');
-const ExtractTextPlugin = require('extract-text-webpack-plugin');
-const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
-const CompressionPlugin = require("compression-webpack-plugin");
+const   webpack = require('webpack');
+        path = require('path');
+        HtmlWebPackPlugin = require('html-webpack-plugin');
+        CleanWebpackPlugin = require('clean-webpack-plugin');
+        ExtractTextPlugin = require('extract-text-webpack-plugin');
+        UglifyJsPlugin = require('uglifyjs-webpack-plugin');
+        CompressionPlugin = require("compression-webpack-plugin");
 
 module.exports = {
     entry : {

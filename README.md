@@ -41,7 +41,7 @@ If You Wanna Start From Scratch, Take a Look at [tutorial.md](https://github.com
 <ul>
     <li>Cannot adding background-image on css</li>
     <li>No image optimizing</li>
-    <li>I added autoprefix in webpack.config.js but I dont even know if it works</li>
+    <li>I added autoprefix in webpack.config.js but I don't even know if it works</li>
     <li>Untested on multipages</li>
     <li>Untest with another custom js</li>
 </ul>
