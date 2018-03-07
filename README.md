@@ -25,13 +25,28 @@ npm run dev
 ```
 
 <br>
-**Compile your project when it's done.**
+**Compile your project when it's done**
 
 ```bash
 npm run build
 ```
 
 <br><br><br>
+
+
+<h2>Cheatsheet</h2>
+<p>If You Wanna Start From Scratch, take a look at `tutorial.md`(https://github.com/KangAbbad/webpack-quickstarter/blob/master/tutorial.md)</p>
+
+
+<h2>Bugs</h2>
+<ul>
+    <li>Cannot adding background-image on css</li>
+    <li>No image optimizing</li>
+    <li>I added autoprefix in webpack.config.js but I dont even know if it works</li>
+    <li>Untested on multipages</li>
+    <li>Untest with another custom js</li>
+</ul>
+
 <h2>Maintainers</h2>
 <table>
     <tr>
