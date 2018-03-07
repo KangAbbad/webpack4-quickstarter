@@ -34,9 +34,9 @@ module.exports = {
                             loader: 'sass-loader'
                         },
                         {
-                            loader: 'postcss-loader', // Run post css actions
+                            loader: 'postcss-loader',
                             options: {
-                                plugins: function () { // post css plugins, can be exported to postcss.config.js
+                                plugins: function () {
                                     return [
                                         require('autoprefixer')
                                     ];
@@ -56,37 +56,6 @@ module.exports = {
                     loader: "babel-loader"
                 }
             },
-            // image-webpack-loader(for images)
-            // {
-            //     test: /\.(gif|png|jpe?g|svg)$/i,
-            //     use: [
-            //         'file-loader',
-            //         {
-            //             loader: 'image-webpack-loader',
-            //             options: {
-            //                 mozjpeg: {
-            //                     progressive: true,
-            //                     quality: 65
-            //                 },
-            //                 // optipng.enabled: false will disable optipng
-            //                 optipng: {
-            //                     enabled: false,
-            //                 },
-            //                 pngquant: {
-            //                     quality: '65-90',
-            //                     speed: 4
-            //                 },
-            //                 gifsicle: {
-            //                     interlaced: false,
-            //                 },
-            //                 // the webp option will enable WEBP
-            //                 webp: {
-            //                     quality: 75
-            //                 }
-            //             }
-            //         }
-            //     ]
-            // },
 
             // file-loader
             {
@@ -117,6 +86,7 @@ module.exports = {
             }
         ]
     },
+    
     plugins: [
         new CleanWebpackPlugin(['dist']),
         new HtmlWebPackPlugin({
