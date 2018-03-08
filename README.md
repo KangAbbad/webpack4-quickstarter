@@ -1,5 +1,6 @@
 [![npm][npm]][npm-url]
 [![node][node]][node-url]
+[![dependencies][dependencies]][dependencies-url]
 
 <div align="center">
   <img width="400" height="300" src="src/assets/images/collabs.png">
@@ -35,7 +36,7 @@ npm run build
 <br><br>
 <h2>Cheatsheet</h2>
 
-If You Wanna Start From Scratch, Take a Look at [tutorial.md](https://github.com/KangAbbad/webpack-quickstarter/blob/master/tutorial.md)
+If You Want To Start From Scratch, Take a Look at [tutorial.md](https://github.com/KangAbbad/webpack-quickstarter/blob/master/tutorial.md)
 
 <h2>Bugs</h2>
 <ul>
@@ -64,3 +65,6 @@ If You Wanna Start From Scratch, Take a Look at [tutorial.md](https://github.com
 
 [node]: https://img.shields.io/badge/node-v8.9.0-brightgreen.svg
 [node-url]: https://nodejs.org
+
+[dependencies]: https://img.shields.io/hackage-deps/v/lens.svg
+[dependencies-url]: #
