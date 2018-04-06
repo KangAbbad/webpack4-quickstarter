@@ -34,18 +34,6 @@ npm run build
 > - `npm run build:prod` if you want to minify your scripts
 
 <br><br>
-<h2>Cheatsheet</h2>
-
-If You Want To Start From Scratch, Take a Look at [tutorial.md](https://github.com/KangAbbad/webpack-quickstarter/blob/master/tutorial.md)
-
-<h2>Bugs</h2>
-<ul>
-    <li>Cannot adding background-image on css</li>
-    <li>No image optimizing</li>
-    <li>I added autoprefix in webpack.config.js but I don't even know if it works</li>
-    <li>Untested on multipages</li>
-    <li>Untested with another custom js</li>
-</ul>
 
 <h2>Maintainers</h2>
 <table>
