@@ -178,10 +178,3 @@
     }
 
 **10. Run npm scripts to see your application in action in browser and in production format. And Voillaaa!! You did it! Don’t forget to inspect element in the browser console to make sure everything’s working great without any error**
-
-> ## **End of This Long Guide**
-
-<div align="center">
-    <h1>If you find something that’s not right in this guide, mention it into the issues section. I really look forward to your feedback</h1>
-    <h1>Thank you for beeing patience and If you like it, don't forget to click star button at the top</h1>
-</div>
